@@ -112,21 +112,6 @@ Some key insights generated from the dashboard include:
 
 ---
 
-# Repository Structure
-
-
-Executive-Retail-Performance-Dashboard
-│
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── README.md
-└── Screenshots
-    ├── 01_Executive_Dashboard.png
-    └── 02_Customer_Product_Analysis.png
-
-
----
-
 # Future Improvements
 
 - Forecasting using time-series analysis
