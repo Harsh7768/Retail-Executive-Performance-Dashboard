@@ -228,7 +228,7 @@ Retail-Executive-Performance-Dashboard
 
 ### Business Intelligence
 
-- Interactive Dashboard Development
+- Interactive Dashboards Developed
 - KPI Design
 - Executive Reporting
 - Data Storytelling
